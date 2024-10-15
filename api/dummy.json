@@ -1,0 +1,99 @@
+{
+    "findings": [
+        {
+            "id" : "d423a744-6cc4-4392-a2e8-62694b18de6d",
+            "location" : "https://christophdrayss.github.io/docupulse_landingpage/api/contract_86.pdf",
+            "boxes" : [
+                {
+                    "x": 334,
+                    "y": 334
+                },
+                {
+                    "x": 111,
+                    "y": 222
+                }
+            ]
+        },
+        {
+            "id" : "b567d8f9-8bb3-4c9d-b5e4-aac02b5f5cfa",
+            "location" : "https://christophdrayss.github.io/docupulse_landingpage/api/contract_15.pdf",
+            "boxes" : [
+                {
+                    "x": 456,
+                    "y": 300
+                },
+                {
+                    "x": 123,
+                    "y": 400
+                },
+                {
+                    "x": 250,
+                    "y": 150
+                }
+            ]
+        },
+        {
+            "id" : "e0987ab1-1234-4c1d-a8e1-f81fdd8e3d1b",
+            "location" : "https://christophdrayss.github.io/docupulse_landingpage/api/contract_37.pdf",
+            "boxes" : [
+                {
+                    "x": 320,
+                    "y": 480
+                }
+            ]
+        },
+        {
+            "id" : "c456f7g8-9bb4-5d9d-b6e5-aad03c6f6dfa",
+            "location" : "https://christophdrayss.github.io/docupulse_landingpage/api/contract_24.pdf",
+            "boxes" : [
+                {
+                    "x": 450,
+                    "y": 210
+                },
+                {
+                    "x": 180,
+                    "y": 360
+                }
+            ]
+        },
+        {
+            "id" : "d567g8h9-0cc5-6e0f-b7f6-aaf04d7f7efb",
+            "location" : "https://christophdrayss.github.io/docupulse_landingpage/api/contract_59.pdf",
+            "boxes" : [
+                {
+                    "x": 300,
+                    "y": 200
+                },
+                {
+                    "x": 250,
+                    "y": 300
+                }
+            ]
+        },
+        {
+            "id" : "e678i9j0-1dd6-7g1h-c8g7-aag05e8g8gfb",
+            "location" : "https://christophdrayss.github.io/docupulse_landingpage/api/contract_72.pdf",
+            "boxes" : [
+                {
+                    "x": 400,
+                    "y": 250
+                }
+            ]
+        },
+        {
+            "id" : "f789j0k1-2ee7-8h2i-d9h8-aah06f9h9hgb",
+            "location" : "https://christophdrayss.github.io/docupulse_landingpage/api/contract_93.pdf",
+            "boxes" : [
+                {
+                    "x": 350,
+                    "y": 150
+                },
+                {
+                    "x": 100,
+                    "y": 300
+                }
+            ]
+        }
+    ],
+    "timestamp":"2024-03-02 13:42:17"
+}

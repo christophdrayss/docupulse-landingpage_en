@@ -1,0 +1,90 @@
+{
+    "findings": [
+        {   
+            "id" : "d423a744-6cc4-4392-a2e8-62694b18de6d",
+            "content": "to te",
+            "distance": 0.9609123468399048,
+            "doc_description": " 30 November 2020",
+            "fts_score": -1,
+            "link": "http://127.0.0.1:5000/./data/investment_agreements/Hallo (2020 - )/01 Stammdaten/Hallo Announcement-u. Agreement Dough.pdf#page=3",
+            "page": 3,
+            "prompt": "Hnex",
+            "query_id": "1",
+            "query_name": "Sunny shares",
+            "relevance_score": -1,
+            "response": "fake response",
+            "scope": "file",
+            "scope_name": "./data/investment_agreements_|_Hallo (2020 - )_|_01 Stammdaten_|_Hallo Aufhebungs-u. Eintrittsvereinbarung Dough.pdf",
+            "search_text": "SureCapital's share company and investment amount",
+            "type": "combined_context_prompt",
+            "location" : "https://christophdrayss.github.io/docupulse_landingpage/api/contract_86.pdf",
+            "boxes" : [
+                {
+                    "x": 334,
+                    "y": 334
+                },
+                {
+                    "x": 111,
+                    "y": 222
+                }
+            ]
+        },
+        {   
+            "id" : "d423a744-6cc4-4392-a2e8-62694b18de6d",
+            "content": "to te",
+            "distance": 0.9609123468399048,
+            "doc_description": " 30 November 2020",
+            "fts_score": -1,
+            "link": "http://127.0.0.1:5000/./data/investment_agreements/Hallo (2020 - )/01 Stammdaten/Hallo Announcement-u. Agreement Dough.pdf#page=3",
+            "page": 3,
+            "prompt": "Hnex",
+            "query_id": "1",
+            "query_name": "Sunny shares",
+            "relevance_score": -1,
+            "response": "fake response",
+            "scope": "file",
+            "scope_name": "./data/investment_agreements_|_Hallo (2020 - )_|_01 Stammdaten_|_Hallo Aufhebungs-u. Eintrittsvereinbarung Dough.pdf",
+            "search_text": "SureCapital's share company and investment amount",
+            "type": "combined_context_prompt",
+            "location" : "https://christophdrayss.github.io/docupulse_landingpage/api/contract_21.pdf",
+            "boxes" : [
+                {
+                    "x": 334,
+                    "y": 334
+                },
+                {
+                    "x": 111,
+                    "y": 222
+                }
+            ]
+        },
+        {   
+            "id" : "d423a744-6cc4-4392-a2e8-62694b18de6d",
+            "content": "to te",
+            "distance": 0.9609123468399048,
+            "doc_description": " 30 November 2020",
+            "fts_score": -1,
+            "link": "http://127.0.0.1:5000/./data/investment_agreements/Hallo (2020 - )/01 Stammdaten/Hallo Announcement-u. Agreement Dough.pdf#page=3",
+            "page": 3,
+            "prompt": "Hnex",
+            "query_id": "1",
+            "query_name": "Sunny shares",
+            "relevance_score": -1,
+            "response": "fake response",
+            "scope": "file",
+            "scope_name": "./data/investment_agreements_|_Hallo (2020 - )_|_01 Stammdaten_|_Hallo Aufhebungs-u. Eintrittsvereinbarung Dough.pdf",
+            "search_text": "SureCapital's share company and investment amount",
+            "type": "combined_context_prompt",
+            "location" : "https://christophdrayss.github.io/docupulse_landingpage/api/contract_21.pdf",
+            "boxes" : [
+                {
+                    "x": 334,
+                    "y": 334
+                },
+                {
+                    "x": 111,
+                    "y": 222
+                }
+            ]
+        },
+}
