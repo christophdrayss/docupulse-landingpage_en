@@ -9,11 +9,11 @@
   <DefaultLocale>de-DE</DefaultLocale>
   <DisplayName DefaultValue="Docupulse"/>
   <Description DefaultValue="Linking, searching and extracting data from documents in spreadsheets."/>
-  <IconUrl DefaultValue="https://www.docupulse.de/assets/img/logo_thumbnail32.png"/>
-  <HighResolutionIconUrl DefaultValue="https://www.docupulse.de/assets/img/logo_thumbnail64.png"/>
+  <IconUrl DefaultValue="https://www.docupulse.app/assets/img/logo_thumbnail32.png"/>
+  <HighResolutionIconUrl DefaultValue="https://www.docupulse.app/assets/img/logo_thumbnail64.png"/>
   <SupportUrl DefaultValue="https://docs.docupulse.de"/>
   <AppDomains>
-    <AppDomain>https://www.docupulse.de</AppDomain>
+    <AppDomain>https://www.docupulse.app</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Workbook"/>
@@ -65,9 +65,9 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="CustomIcon.16x16" DefaultValue="https://www.docupulse.de/assets/img/logo_thumbnail16.png"/>
-        <bt:Image id="CustomIcon.32x32" DefaultValue="https://www.docupulse.de/assets/img/logo_thumbnail32.png"/>
-        <bt:Image id="CustomIcon.64x64" DefaultValue="https://www.docupulse.de/assets/img/logo_thumbnail64.png"/>
+        <bt:Image id="CustomIcon.16x16" DefaultValue="https://www.docupulse.app/assets/img/logo_thumbnail16.png"/>
+        <bt:Image id="CustomIcon.32x32" DefaultValue="https://www.docupulse.app/assets/img/logo_thumbnail32.png"/>
+        <bt:Image id="CustomIcon.64x64" DefaultValue="https://www.docupulse.app/assets/img/logo_thumbnail64.png"/>
       </bt:Images>
       <bt:Urls>
         <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue="https://docs.docupulse.de"/>
